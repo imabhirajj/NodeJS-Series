@@ -1,0 +1,6 @@
+Node.js File Handling Notes
+
+- fs module is used for file operations
+- readFileSync → blocking
+- readFile → non-blocking
+- Async operations use callbacks / event loop
